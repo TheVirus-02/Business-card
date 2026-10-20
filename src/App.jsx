@@ -34,7 +34,7 @@ export default function App() {
         {/* Action Buttons */}
         <div className="button-group">
           <a 
-             href="https://wa.me/91YOURNUMBER" 
+             href="https://wa.me/919351626610" 
             className="btn btn-email"
             aria-label="Chat on WhatsApp"
   target="_blank"
