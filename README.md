@@ -1,10 +1,10 @@
-🪪 Digital Business Card
+# Digital Business Card
 
 A clean, responsive, and lightweight digital business card designed to showcase contact details, social links, and portfolio highlights in one place.
 
 🔗 Live Demo: rahul-business-card.vercel.app
 
-🌟 Features
+# 🌟 Features
 
 Responsive Design: Looks great on mobile, tablet, and desktop screens.
 
@@ -14,7 +14,7 @@ Fast & Lightweight: Minimal bundle size for lightning-fast loading speeds.
 
 Clean UI: Modern, focused typography and layout.
 
-🛠️ Built With
+# 🛠️ Built With 
 
 React, HTML, CSS
 
@@ -22,15 +22,14 @@ Styling: CSS
 
 Deployment: Vercel
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 Follow these steps to run this project locally:
 
-Prerequisites
+Prerequisites :- 
 
 Make sure you have Node.js installed or a local web server (like Live Server in VS Code for vanilla HTML/CSS).
-
-Installation
+Installation 
 
 Clone the repository:
 
@@ -49,11 +48,12 @@ npm install
 
 Run the development server:
 
-npm run dev
-# or simply open index.html in your browser
+npm run dev 
+
+or simply open index.html in your browser
 
 
-📦 Deployment
+# 📦 Deployment
 
 This project is deployed using Vercel. To deploy your own version:
 
@@ -61,7 +61,7 @@ Push your code to GitHub.
 Import the repository into Vercel.
 Vercel will automatically build and deploy your card.
 
-📬 Connect With Me
+# 📬 Connect With Me
 
 Live Card: rahul-business-card.vercel.app
 
