@@ -6,7 +6,8 @@ import {
   FaTwitter, 
   FaFacebook, 
   FaInstagram, 
-  FaGithub 
+  FaGithub ,
+  FaWhatsapp
 } from 'react-icons/fa';
 
 export default function App() {
@@ -22,21 +23,24 @@ export default function App() {
         <header className="profile-header">
           <h1 className="name">Rahul Trivedi</h1>
           <p className="role">Backend Developer</p>
-          <a 
+          {/* <a 
             href="mailto:trivedirahul802@gmail.com" 
             className="website"
           >
             rahultrivedi.website
-          </a>
+          </a> */}
         </header>
 
         {/* Action Buttons */}
         <div className="button-group">
           <a 
-            href="mailto:trivedirahul802@gmail.com" 
+             href="https://wa.me/91YOURNUMBER" 
             className="btn btn-email"
+            aria-label="Chat on WhatsApp"
+  target="_blank"
+  rel="noreferrer"
           >
-            <FaEnvelope /> Email
+              <FaWhatsapp /> WhatsApp
           </a>
           <a 
             href="https://www.linkedin.com/in/rahul-trivedi-dev" 
@@ -52,14 +56,14 @@ export default function App() {
         <section className="info-section">
           <h2 className="section-title">About</h2>
           <p className="section-text">
-            I am a Backend Developer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.
+           I am a Backend Developer with a particular interest in building useful applications, solving problems, and automating daily tasks. I try to keep up with new technologies, security, and best practices, and am always looking for new things to learn.
           </p>
         </section>
 
         <section className="info-section">
           <h2 className="section-title">Interests</h2>
           <p className="section-text">
-            Food expert. Traveller. Reader. Internet fanatic. pop culture ninja. Coffee fanatic. Dev Entrepreneur.
+          Code enthusiast. Problem solver. Tech explorer. Open-source learner. AI enthusiast. Traveller. Reader. Internet fanatic. Dev Entrepreneur.
           </p>
         </section>
       </div>
