@@ -1,16 +1,70 @@
-# React + Vite
+🪪 Digital Business Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, responsive, and lightweight digital business card designed to showcase contact details, social links, and portfolio highlights in one place.
 
-Currently, two official plugins are available:
+🔗 Live Demo: rahul-business-card.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌟 Features
 
-## React Compiler
+Responsive Design: Looks great on mobile, tablet, and desktop screens.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Quick Links: Easy access to social media, GitHub, LinkedIn, and portfolio links.
 
-## Expanding the ESLint configuration
+Fast & Lightweight: Minimal bundle size for lightning-fast loading speeds.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Clean UI: Modern, focused typography and layout.
+
+🛠️ Built With
+
+React, HTML, CSS
+
+Styling: CSS
+
+Deployment: Vercel
+
+🚀 Getting Started
+
+Follow these steps to run this project locally:
+
+Prerequisites
+
+Make sure you have Node.js installed or a local web server (like Live Server in VS Code for vanilla HTML/CSS).
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/TheVirus-02/Business-card.git
+
+
+Navigate into the project directory:
+
+cd my-react-app
+
+
+Install dependencies (if applicable):
+
+npm install
+
+
+Run the development server:
+
+npm run dev
+# or simply open index.html in your browser
+
+
+📦 Deployment
+
+This project is deployed using Vercel. To deploy your own version:
+
+Push your code to GitHub. 
+Import the repository into Vercel.
+Vercel will automatically build and deploy your card.
+
+📬 Connect With Me
+
+Live Card: rahul-business-card.vercel.app
+
+LinkedIn: https://www.linkedin.com/in/rahul-trivedi-dev
+
+Email: trivedirahul802@gmail.com
